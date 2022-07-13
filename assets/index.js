@@ -1,7 +1,5 @@
-document.querySelector(".title").textContent = "Hellooooo"
-
 const div = document.querySelectorAll("div")
 
-div.forEach ((d, i) => {
-    d.textContent = `LOOOoooooooooooooooooL at ${i}`
+document.getElementById("btn").addEventListener("click", () => {
+    console.log("Hi")
 })

@@ -2,9 +2,9 @@
 
   "scripts": {
 
-    "test": "jest"
+    "test": "jest --watch"
 
-  },
+  },  
 
   "devDependencies": {
 
